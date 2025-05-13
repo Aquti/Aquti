@@ -1,7 +1,7 @@
 ## Hi, I’m Aquti! 👋
 * 👀 I’m interested in creating web games, desktop apps and discord apps.
 * 🌱 I’m currently learning TS, C#, and C++.
-* 📫 How to reach me: Gmail - playerupleaseletme@gmailcom, Discord: mkq6
+* 📫 How to reach me: Gmail - gm.shwt1@gmailcom, Discord: shw_t
 * 😄 Pronouns: He/Him
 
 ## Skills and Experience
